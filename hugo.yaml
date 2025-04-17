@@ -9,3 +9,7 @@ menus:
       url: https://github.com/lcarva/
     - name: Red Hat
       url: https://www.redhat.com/en/authors/luiz-carvalho
+
+caches:
+  images:
+    dir: :cacheDir/images
