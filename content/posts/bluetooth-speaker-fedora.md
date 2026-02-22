@@ -19,9 +19,9 @@ I used the standard Anaconda installation by writing the Fedora Server 43 ISO to
 
 I left the root account disabled, and created an admin user called `speaker` that also required a password.
 
-This device was planned to connect to my home network via Wi-Fi only. 
+This system was planned to connect to my home network via Wi-Fi only. 
 In fact, no wired network was available during the installation either.
-By connecting to my Wi-Fi from the installer, the Wi-Fi password persists on the device.
+By connecting to my Wi-Fi from the installer, the Wi-Fi password persists on the system.
 This was a nice surprise.
 
 The full disk was used for the installation.
